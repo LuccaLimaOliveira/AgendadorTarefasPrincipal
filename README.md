@@ -21,10 +21,10 @@ O sistema é composto pelos seguintes serviços:
 
 ## Repositórios
 
-- Usuário: LINK_AQUI
-- Tarefas: LINK_AQUI
-- Notificação: LINK_AQUI
-- BFF: LINK_AQUI
+- Usuário: https://github.com/LuccaLimaOliveira/usuario
+- Agendador de Tarefas: https://github.com/LuccaLimaOliveira/agendador-tarefas
+- Notificação: https://github.com/LuccaLimaOliveira/notificacao
+- BFF: https://github.com/LuccaLimaOliveira/bff-agendadorTarefas
 
 ## Tecnologias
 
