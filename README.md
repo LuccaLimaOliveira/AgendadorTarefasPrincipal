@@ -1,10 +1,10 @@
-# TaskManager
+# Agendador de Tarefas
 
 Sistema de gerenciamento e agendamento de tarefas desenvolvido com Java, Spring Boot e arquitetura de microsserviços.
 
 ## Objetivo
 
-O TaskManager foi desenvolvido para permitir o gerenciamento de tarefas, autenticação de usuários e envio de notificações automatizadas através de uma arquitetura desacoplada baseada em microsserviços.
+O Agendador de Tarefas foi desenvolvido para permitir o gerenciamento de tarefas, autenticação de usuários e envio de notificações automatizadas através de uma arquitetura desacoplada baseada em microsserviços.
 
 ## Arquitetura
 
@@ -36,7 +36,8 @@ O sistema é composto pelos seguintes serviços:
 - MongoDB
 - Postman
 - GitHub Actions
-- Docker (em evolução)
+- Docker
+- Docker Compose
 
 ## Fluxo da Aplicação
 
@@ -48,8 +49,6 @@ O sistema é composto pelos seguintes serviços:
 
 ## Próximas Evoluções
 
-- Containerização com Docker
-- Docker Compose
 - Observabilidade
 - Testes automatizados
 
