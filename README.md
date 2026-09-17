@@ -1,6 +1,6 @@
 # Agendador de Tarefas
 
-Sistema de gerenciamento e agendamento de tarefas desenvolvido com Java, Spring Boot e arquitetura de microsserviços.
+Sistema de agendamento de tarefas desenvolvido com Java, Spring Boot e arquitetura de microsserviços.
 
 ## Objetivo
 
